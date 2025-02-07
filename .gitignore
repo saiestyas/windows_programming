@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#direcoties debug and release
+**/x64/Debug
+**/x64/Release
+
+#project preferences
+**/.vs
