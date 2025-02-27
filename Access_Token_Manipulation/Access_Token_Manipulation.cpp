@@ -9,10 +9,6 @@
 //MITRE T1134 Access Token Manipulation
 
 #include <iostream>
-#include "..\..\red-team\discovery\discovery.h";
-#include "..\..\red-team\privilege_escalation\privilege_escalation.h";
-#include "..\..\red-team\utils\utils.h";
-
 
 using namespace std;
 
